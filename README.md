@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -59,6 +61,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
