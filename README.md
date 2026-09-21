@@ -65,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
