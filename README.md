@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -109,6 +111,7 @@
 | [0058-length-of-last-word](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
