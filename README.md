@@ -35,6 +35,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -115,6 +117,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
