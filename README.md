@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -44,6 +45,7 @@
 | [0383-ransom-note](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
