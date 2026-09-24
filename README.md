@@ -21,6 +21,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
@@ -152,4 +153,5 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
