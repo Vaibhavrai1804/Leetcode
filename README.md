@@ -21,6 +21,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0007-reverse-integer](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0050-powx-n) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
