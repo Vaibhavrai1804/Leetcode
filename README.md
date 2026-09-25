@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
@@ -111,6 +113,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0704-binary-search) |
@@ -169,4 +172,16 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vaibhavrai1804/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
