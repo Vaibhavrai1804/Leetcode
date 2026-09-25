@@ -15,7 +15,7 @@ public:
                 break;
             }
             else{
-                if(nums[i]==nums[i+1] ||nums[i]==nums[i-1]){
+                if(nums[i]==nums[i+1]){
                     return nums[i];
                 }
 
