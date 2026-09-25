@@ -25,6 +25,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vaibhavrai1804/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
@@ -49,6 +50,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0567-permutation-in-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vaibhavrai1804/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0007-reverse-integer](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vaibhavrai1804/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavrai1804/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -162,4 +165,5 @@
 | [0074-search-a-2d-matrix](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vaibhavrai1804/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
