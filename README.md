@@ -146,6 +146,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +161,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavrai1804/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
