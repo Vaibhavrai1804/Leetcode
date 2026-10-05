@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0051-n-queens) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0242-valid-anagram) |
@@ -203,6 +205,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -239,6 +242,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0078-subsets) |
@@ -246,5 +250,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
