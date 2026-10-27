@@ -252,6 +252,7 @@
 | [0039-combination-sum](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vaibhavrai1804/Leetcode/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
